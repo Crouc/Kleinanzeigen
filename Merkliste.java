@@ -1,7 +1,5 @@
 package kleinanzeigen;
 
-/*********************  Niklas Schulligen   Sascha Magard  ************************************/
-/*********************  Elena Schumacher    Marcel Matschiner   *******************************/
 
 public class Merkliste {
     private Anzeige anzeige;
