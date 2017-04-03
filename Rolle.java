@@ -1,8 +1,5 @@
 package kleinanzeigen;
 
-/*********************  Niklas Schulligen   Sascha Magard  ************************************/
-/*********************  Elena Schumacher    Marcel Matschiner   *******************************/
-
 public enum Rolle {
     BE("Benutzer", 1),
     GF("Geschaeftsfuehrer", 2);
