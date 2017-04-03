@@ -1,8 +1,5 @@
 package kleinanzeigen;
 
-/*********************  Niklas Schulligen   Sascha Magard  ************************************/
-/*********************  Elena Schumacher    Marcel Matschiner   *******************************/
-
 public class Benutzer {
     // Attribute
     private String vorname;
