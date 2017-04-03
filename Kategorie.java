@@ -1,8 +1,5 @@
 package kleinanzeigen;
 
-/*********************  Niklas Schulligen   Sascha Magard  ************************************/
-/*********************  Elena Schumacher    Marcel Matschiner   *******************************/
-
 public enum Kategorie {
     FA("Fahrzeuge", 1),
     DI("Dienstleistungen", 2),
