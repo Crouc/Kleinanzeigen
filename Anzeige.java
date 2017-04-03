@@ -2,8 +2,6 @@ package kleinanzeigen;
 
 import java.util.Date;
 
-/*********************  Niklas Schulligen   Sascha Magard  ************************************/
-/*********************  Elena Schumacher    Marcel Matschiner   *******************************/
 
 public class Anzeige {
     // Attribute
